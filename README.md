@@ -1,40 +1,48 @@
-# Solving Linear Programming Problems Using Python
+# Solving Linear Programming Using Python
 
 ## 📌 Project Overview
 
-This project is a Python-based application for solving Linear Programming (LP) problems using different mathematical optimization techniques.
+This project demonstrates how Linear Programming problems can be solved using Python.
 
-The project implements four methods:
-
-- Graphical Method
-- Simplex Method
-- Big M Method
-- Two-Phase Method
-
-The main objective of this project is to automate Linear Programming calculations and provide different approaches for solving optimization problems.
+The project focuses on applying optimization techniques to find the best possible solution while satisfying given constraints.
 
 ## 🎯 Objectives
 
-- Solve Linear Programming problems using Python.
-- Implement different Linear Programming techniques.
-- Reduce manual calculation in optimization problems.
-- Compare different methods used to solve LP problems.
-- Apply mathematical optimization concepts through programming.
+- Understand Linear Programming concepts
+- Formulate objective functions and constraints
+- Solve optimization problems using Python
+- Analyze feasible and optimal solutions
+- Apply Operations Research concepts using programming
 
 ## 🛠️ Technologies Used
 
 - Python
-- Mathematical Optimization
-- Linear Programming
-- VS Code
+- NumPy
+- SciPy
+- PuLP
+- Matplotlib
+
+## 📚 Methods Covered
+
+- Graphical Method
+- Simplex Method
+- Two-Phase Method
+- Linear Programming Optimization
+
+## ⚙️ Key Features
+
+- Defines objective functions and constraints
+- Solves Linear Programming problems programmatically
+- Identifies optimal solutions
+- Provides clear numerical results
+- Helps understand optimization through practical implementation
 
 ## 📂 Project Structure
 
 ```text
-Solving-linear-Programming-problems-using-python-
+Solving-Linear-Programming-Using-Python/
 │
-├── graphical method.py
-├── simplex method.py
-├── big m method.py
-├── two phase method.py
+├── graphical_method.py
+├── simplex_method.py
+├── two_phase_method.py
 └── README.md
